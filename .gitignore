@@ -1,0 +1,6 @@
+.terraform/
+terraform*
+*.tfstate
+*.tfvars
+*.lock.hcl
+route53o
